@@ -1,5 +1,5 @@
 # hello-world
-a new repository
+
 hello people
 
 tripuresh here, studying in deakin university 
